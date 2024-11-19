@@ -1,0 +1,16 @@
+Sprite Sheet Processing Results
+==============================
+Processing Date: 2024-11-16 11:17:44
+
+Sprite Sheet: units_human_sprites.png
+Dimensions: 8185x5392
+Total Units: 561
+Processed Units: 561
+Processing Time: 2024-11-16 11:16:58
+
+Sprite Sheet: units_orc_sprites.png
+Dimensions: 7306x6861
+Total Units: 571
+Processed Units: 571
+Processing Time: 2024-11-16 11:17:20
+
